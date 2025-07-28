@@ -14,6 +14,7 @@ QtCreator中文翻译
 已完成第三方插件的列表：
 1. [QodeAssist](https://github.com/Palm1r/QodeAssist)
 2. [DoxygenPlugin](https://github.com/cristianadam/qt-creator-doxygen)
+3. [MinimapPlugin](https://github.com/cristianadam/qt-creator-minimap)
 
 目前的问题
 1. Qt生成ts文件本身存在问题，无法有效识别命名空间，导致翻译完成，但加载翻译文件后，并没有显示翻译
