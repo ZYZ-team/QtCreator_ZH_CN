@@ -9279,8 +9279,8 @@ a highlight component.</source>
         <translation>要在Android设备上预览您的应用程序:</translation>
     </message>
     <message>
-        <source>Select the “GET IT ON Google Play” link or scan the QR code below with your Android device.</source>
-        <translation>选择“在Google Play上获取它“链接，或使用您的Android设备扫描下面的二维码。</translation>
+        <source>Select the &quot;GET IT ON Google Play&quot; link or scan the QR code below with your Android device.</source>
+        <translation>选择&quot;在Google Play上获取它&quot;链接，或使用您的Android设备扫描下面的二维码。</translation>
     </message>
     <message>
         <source>Install Qt UI Viewer on your Android device.</source>
@@ -9688,7 +9688,7 @@ a highlight component.</source>
                              here&lt;/span&gt;&lt;/a&gt;.</source>
         <translation>要使用&lt;b&gt;素材浏览器&lt;/b&gt;,请添加&lt;b&gt;QtQuick3D&lt;/b&gt;模块和&lt;b&gt;View3D&lt;/b&gt;
                              组件&lt;b&gt;组件&lt;/b&gt;视图中,或单击
-                             &lt;a href=“&quot;#add_import&quot;&gt;&lt;span style=&quot;text-decoration:none;color:%1&quot;&gt;
+                             &lt;a href=&quot;#add_import&quot;&gt;&lt;span style=&quot;text-decoration:none;color:%1&quot;&gt;
                              这里&lt;/span&gt;&lt;/a&gt;.</translation>
     </message>
     <message>
@@ -13011,7 +13011,7 @@ operation is in progress.</source>
     <name>QmlDesigner::CurveEditor</name>
     <message>
         <source>This file does not contain a timeline. &lt;br&gt;&lt;br&gt;To create an animation, add a timeline by clicking the + button in the &quot;Timeline&quot; view.</source>
-        <translation>此文件不包含时间轴.&lt;br&gt;&lt;br&gt;要创建动画,在“时间轴”视图中单击“+”按钮添加时间轴.</translation>
+        <translation>此文件不包含时间轴.&lt;br&gt;&lt;br&gt;要创建动画,在&quot;时间轴&quot;视图中单击&quot;+&quot;按钮添加时间轴.</translation>
     </message>
 </context>
 <context>
@@ -13540,7 +13540,7 @@ operation is in progress.</source>
     </message>
     <message>
         <source>Click &quot;Accept&quot; to finish the import or adjust options and click &quot;Import&quot; to import again.</source>
-        <translation>点击“接受”完成导入或调整选项，然后点击“导入”再次导入。</translation>
+        <translation>点击&quot;接受&quot;完成导入或调整选项，然后点击&quot;导入&quot;再次导入。</translation>
     </message>
     <message>
         <source>Import interrupted.</source>
@@ -16231,19 +16231,19 @@ The minimum API level required by the kit is %1.</source>
     </message>
     <message>
         <source>The Android build folder &quot;%1&quot; was not found and could not be created.</source>
-        <translation>未找到安卓构建文件夹“%1“,并无法创建.</translation>
+        <translation>未找到安卓构建文件夹&quot;%1&quot;,并无法创建.</translation>
     </message>
     <message>
         <source>Cannot copy the target&apos;s lib file &quot;%1&quot; to the Android build folder &quot;%2&quot;.</source>
-        <translation>无法复制目标的库文件“%1“到安卓构建目录“%2“.</translation>
+        <translation>无法复制目标的库文件&quot;%1&quot;到安卓构建目录&quot;%2&quot;.</translation>
     </message>
     <message>
         <source>Cannot copy file &quot;%1&quot; to Android build libs folder &quot;%2&quot;.</source>
-        <translation>无法拷贝文件“%1”到安卓构建库路径“%2”.</translation>
+        <translation>无法拷贝文件&quot;%1&quot;到安卓构建库路径&quot;%2&quot;.</translation>
     </message>
     <message>
         <source>Cannot open androiddeployqt input file &quot;%1&quot; for writing.</source>
-        <translation>无法打开 androiddeployqt 输入文件“%1”以写入.</translation>
+        <translation>无法打开 androiddeployqt 输入文件&quot;%1&quot;以写入.</translation>
     </message>
     <message>
         <source>Product type is not an application, not building an APK.</source>
@@ -16251,7 +16251,7 @@ The minimum API level required by the kit is %1.</source>
     </message>
     <message>
         <source>Cannot set up &quot;%1&quot;, not building an APK.</source>
-        <translation>无法设置“%1”,未构建 APK.</translation>
+        <translation>无法设置&quot;%1&quot;,未构建 APK.</translation>
     </message>
     <message>
         <source>Failed to run keytool.</source>
@@ -16327,17 +16327,17 @@ The minimum API level required by the kit is %1.</source>
     </message>
     <message>
         <source>The deployment device &quot;%1&quot; is invalid.</source>
-        <translation>部署设备“%1”无效.</translation>
+        <translation>部署设备&quot;%1&quot;无效.</translation>
     </message>
     <message>
         <source>The deployment device &quot;%1&quot; does not support the architectures used by the kit.
 The kit supports &quot;%2&quot;, but the device uses &quot;%3&quot;.</source>
-        <translation>部署设备“%1”不支持套件架构.
-套件支持“%2”,但设备使用“%3”.</translation>
+        <translation>部署设备&quot;%1&quot;不支持套件架构.
+套件支持&quot;%2&quot;,但设备使用&quot;%3&quot;.</translation>
     </message>
     <message>
         <source>The deployment device &quot;%1&quot; is disconnected.</source>
-        <translation>部署设备“%1”未连接.</translation>
+        <translation>部署设备&quot;%1&quot;未连接.</translation>
     </message>
     <message>
         <source>Android: The main ABI of the deployment device (%1) is not selected. The app execution or debugging might not work properly. Add it from Projects &gt; Build &gt; Build Steps &gt; qmake &gt; ABIs.</source>
@@ -16369,7 +16369,7 @@ The kit supports &quot;%2&quot;, but the device uses &quot;%3&quot;.</source>
     </message>
     <message>
         <source>Uninstalling the previous package &quot;%1&quot;.</source>
-        <translation>卸载前一个包“%1”.</translation>
+        <translation>卸载前一个包&quot;%1&quot;.</translation>
     </message>
     <message>
         <source>Starting: &quot;%1&quot;</source>
@@ -16377,7 +16377,7 @@ The kit supports &quot;%2&quot;, but the device uses &quot;%3&quot;.</source>
     </message>
     <message>
         <source>The process &quot;%1&quot; exited normally.</source>
-        <translation>进程“%1”正常退出.</translation>
+        <translation>进程&quot;%1&quot;正常退出.</translation>
     </message>
     <message>
         <source>The process &quot;%1&quot; exited with code %2.</source>
@@ -16409,15 +16409,15 @@ The kit supports &quot;%2&quot;, but the device uses &quot;%3&quot;.</source>
     </message>
     <message>
         <source>The deployment AVD &quot;%1&quot; cannot be started.</source>
-        <translation>部署 AVD “%1” 无法启动.</translation>
+        <translation>部署 AVD &quot;%1&quot; 无法启动.</translation>
     </message>
     <message>
         <source>Package deploy: Failed to pull &quot;%1&quot; to &quot;%2&quot;.</source>
-        <translation>包部署: 从“%1”拉取到“%2”失败.</translation>
+        <translation>包部署: 从&quot;%1&quot;拉取到&quot;%2&quot;失败.</translation>
     </message>
     <message>
         <source>Package deploy: Running command &quot;%1&quot;.</source>
-        <translation>包部署: 运行命令“%1”.</translation>
+        <translation>包部署: 运行命令&quot;%1&quot;.</translation>
     </message>
     <message>
         <source>Cannot find the package name from AndroidManifest.xml nor build.gradle files at &quot;%1&quot;.</source>
@@ -16509,7 +16509,7 @@ The kit supports &quot;%2&quot;, but the device uses &quot;%3&quot;.</source>
     </message>
     <message>
         <source>Emulator for &quot;%1&quot;</source>
-        <translation>模拟“%1”</translation>
+        <translation>模拟&quot;%1&quot;</translation>
     </message>
     <message>
         <source>Physical device</source>
@@ -16518,7 +16518,7 @@ The kit supports &quot;%2&quot;, but the device uses &quot;%3&quot;.</source>
     <message>
         <source>Erase the Android AVD &quot;%1&quot;?
 This cannot be undone.</source>
-        <translation>擦除安卓 AVD “%1”?
+        <translation>擦除安卓 AVD &quot;%1&quot;?
 该步骤无法撤销.</translation>
     </message>
     <message>
@@ -16527,7 +16527,7 @@ This cannot be undone.</source>
     </message>
     <message>
         <source>Opening connection port %1 failed.</source>
-        <translation>打开连接端口“%1”失败.</translation>
+        <translation>打开连接端口&quot;%1&quot;失败.</translation>
     </message>
     <message>
         <source>Retrieving the device IP address failed.</source>
@@ -16539,7 +16539,7 @@ This cannot be undone.</source>
     </message>
     <message>
         <source>Connecting to the device IP &quot;%1&quot; failed.</source>
-        <translation>连接到设备 IP “%1” 失败.</translation>
+        <translation>连接到设备IP &quot;%1&quot; 失败.</translation>
     </message>
     <message>
         <source>None</source>
@@ -16548,7 +16548,7 @@ This cannot be undone.</source>
     </message>
     <message>
         <source>An error occurred while removing the Android AVD &quot;%1&quot; using avdmanager tool.</source>
-        <translation>使用 ADV 管理管理工具移除安卓 AVD “%1” 时出错.</translation>
+        <translation>使用 ADV 管理管理工具移除安卓 AVD &quot;%1&quot; 时出错.</translation>
     </message>
     <message>
         <source>Emulator Command-line Startup Options</source>
@@ -16572,7 +16572,7 @@ This cannot be undone.</source>
     </message>
     <message>
         <source>Cannot parse &quot;%1&quot;.</source>
-        <translation>无法解析“%1”.</translation>
+        <translation>无法解析&quot;%1&quot;.</translation>
     </message>
     <message>
         <source>Starting Android virtual device failed.</source>
@@ -16673,7 +16673,7 @@ This cannot be undone.</source>
     </message>
     <message>
         <source>&lt;p align=&quot;justify&quot;&gt;Please choose a valid package name for your application (for example, &quot;org.example.myapplication&quot;).&lt;/p&gt;&lt;p align=&quot;justify&quot;&gt;Packages are usually defined using a hierarchical naming pattern, with levels in the hierarchy separated by periods (.) (pronounced &quot;dot&quot;).&lt;/p&gt;&lt;p align=&quot;justify&quot;&gt;In general, a package name begins with the top level domain name of the organization and then the organization&apos;s domain and then any subdomains listed in reverse order. The organization can then choose a specific name for their package. Package names should be all lowercase characters whenever possible.&lt;/p&gt;&lt;p align=&quot;justify&quot;&gt;Complete conventions for disambiguating package names and rules for naming packages when the Internet domain name cannot be directly used as a package name are described in section 7.7 of the Java Language Specification.&lt;/p&gt;</source>
-        <translation>&lt;p align=&quot;justify&quot;&gt;请为你的应用选择有效的报名（例如,“org.example.myapplication”）.&lt;/p&gt;&lt;p align=&quot;justify&quot;&gt;通常使用分层命名模式定义包,层次结构中的级别由 . 分隔.&lt;/p&gt;&lt;p align=&quot;justify&quot;&gt;通常,包名以组织的顶级域名开头,然后是组织的域,然后以相反顺序列出其它子域.然后为他们的包选择一个特定的名字.包名应尽可能全部使用小写字符.&lt;/p&gt;&lt;p align=&quot;justify&quot;&gt;Java 语言规范的第 7.7 节描述了,当互联网域名不能直接用于包名时,用来消除包名歧义的完整约定和命名包的规则&lt;/p&gt;</translation>
+        <translation>&lt;p align=&quot;justify&quot;&gt;请为你的应用选择有效的报名（例如,&quot;org.example.myapplication&quot;）.&lt;/p&gt;&lt;p align=&quot;justify&quot;&gt;通常使用分层命名模式定义包,层次结构中的级别由 . 分隔.&lt;/p&gt;&lt;p align=&quot;justify&quot;&gt;通常,包名以组织的顶级域名开头,然后是组织的域,然后以相反顺序列出其它子域.然后为他们的包选择一个特定的名字.包名应尽可能全部使用小写字符.&lt;/p&gt;&lt;p align=&quot;justify&quot;&gt;Java 语言规范的第 7.7 节描述了,当互联网域名不能直接用于包名时,用来消除包名歧义的完整约定和命名包的规则&lt;/p&gt;</translation>
     </message>
     <message>
         <source>Package name:</source>
@@ -16745,7 +16745,7 @@ This cannot be undone.</source>
     </message>
     <message>
         <source>The structure of the Android manifest file is corrupted. Expected an &apos;application&apos; and &apos;activity&apos; sub node.</source>
-        <translation>安卓 manifest 文件结构损坏.需要 “application” 和 “activity” 子节点.</translation>
+        <translation>安卓 manifest 文件结构损坏.需要 &quot;application&quot; 和 &quot;activity&quot; 子节点.</translation>
     </message>
     <message>
         <source>API %1: %2</source>
@@ -16769,7 +16769,7 @@ This cannot be undone.</source>
     </message>
     <message>
         <source>&quot;%1&quot; step has an invalid C++ toolchain.</source>
-        <translation>步骤“%1”有无效 c++ 工具链.</translation>
+        <translation>步骤&quot;%1&quot;有无效的C++工具链.</translation>
     </message>
     <message>
         <source>Product type is not an application, not running the Make install step.</source>
@@ -16908,7 +16908,7 @@ This cannot be undone.</source>
     </message>
     <message>
         <source>Could not open &quot;%1&quot; for writing: %2.</source>
-        <translation>无法打开 “%1“ 以写入: %2.</translation>
+        <translation>无法打开&quot;%1&quot; 以写入: %2.</translation>
     </message>
     <message>
         <source>Downloading Android SDK Tools from URL %1 has failed: %2.</source>
@@ -17011,7 +17011,7 @@ This cannot be undone.</source>
         <source>%1 cannot find the following essential packages: &quot;%2&quot;.
 Install them manually after the current operation is done.
 </source>
-        <translation>%1 无法找到下列重要包: “%2”.
+        <translation>%1 无法找到下列重要包: &quot;%2&quot;.
 请在当前操作结束后手动安装.
 </translation>
     </message>
@@ -17075,7 +17075,7 @@ Install them manually after the current operation is done.
     </message>
     <message>
         <source>Cannot load available arguments for &quot;sdkmanager&quot; command.</source>
-        <translation>无法为“SDK管理器”命令加载可用参数.</translation>
+        <translation>无法为&quot;SDK管理器&quot;命令加载可用参数.</translation>
     </message>
     <message>
         <source>SDK manager arguments:</source>
@@ -17169,7 +17169,7 @@ in the system&apos;s browser for manual download.</source>
         <translation>自动下载 OpenSSL 预构建库.
 
 如果有任何 SSL 操作,这些库可以随应用程序一起提供执行.
-从“项目-&gt;构建-&gt;构建步骤-&gt;构建安卓 APK-&gt;额外库”中查找复选框.
+从&quot;项目-&gt;构建-&gt;构建步骤-&gt;构建安卓 APK-&gt;额外库&quot;中查找复选框.
 如果自动下载失败,Qt Creator 建议在系统浏览器中打开下载链接进行手动下载.</translation>
     </message>
     <message>
@@ -17302,7 +17302,7 @@ in the system&apos;s browser for manual download.</source>
     </message>
     <message>
         <source>The selected path has an invalid NDK. This might mean that the path contains space characters, or that it does not have a &quot;toolchains&quot; sub-directory, or that the NDK version could not be retrieved because of a missing &quot;source.properties&quot; or &quot;RELEASE.TXT&quot; file</source>
-        <translation>选择的路径存在无效 NDK.可能意味着路径包含空格,或者没有“toolchins”子路径,或者因为缺失“source.properties 或 RELEASE.TXT”文件无法检索 NDK 版本</translation>
+        <translation>选择的路径存在无效 NDK.可能意味着路径包含空格,或者没有&quot;toolchins&quot;子路径,或者因为缺失&quot;source.properties 或 RELEASE.TXT&quot;文件无法检索 NDK 版本</translation>
     </message>
     <message>
         <source>OpenSSL Cloning</source>
@@ -18695,7 +18695,7 @@ See Google Test documentation for further information on GTest filters.</source>
         <source>Failed to write &quot;%1&quot;.
 
 %2</source>
-        <translation>写入失败 “%1”.
+        <translation>写入失败 &quot;%1&quot;.
 
 %2</translation>
     </message>
@@ -18711,21 +18711,21 @@ See Google Test documentation for further information on GTest filters.</source>
         <source>
 Run configuration: deduced from &quot;%1&quot;</source>
         <translation>
-运行配置: 从“%1”中推导</translation>
+运行配置: 从&quot;%1&quot;中推导</translation>
     </message>
     <message>
         <source>
 Run configuration: &quot;%1&quot;</source>
         <translation>
-运行配置: “%1”</translation>
+运行配置: &quot;%1&quot;</translation>
     </message>
     <message>
         <source>Omitted the following arguments specified on the run configuration page for &quot;%1&quot;:</source>
-        <translation>省略在“%1”运行配置页面中指定的以下参数:</translation>
+        <translation>省略在&quot;%1&quot;运行配置页面中指定的以下参数:</translation>
     </message>
     <message>
         <source>Omitted the following environment variables for &quot;%1&quot;:</source>
-        <translation>对“%1”省略了以下环境变量:</translation>
+        <translation>对&quot;%1&quot;省略了以下环境变量:</translation>
     </message>
     <message>
         <source>Executable path is empty. (%1)</source>
@@ -18743,15 +18743,15 @@ Maybe raise the timeout?</source>
     </message>
     <message>
         <source>Failed to start test for project &quot;%1&quot;.</source>
-        <translation>启动项目“%1”的测试失败.</translation>
+        <translation>启动项目&quot;%1&quot;的测试失败.</translation>
     </message>
     <message>
         <source>Test for project &quot;%1&quot; crashed.</source>
-        <translation>项目“%1”的测试崩溃.</translation>
+        <translation>项目&quot;%1&quot;的测试崩溃.</translation>
     </message>
     <message>
         <source>Test for project &quot;%1&quot; did not produce any expected output.</source>
-        <translation>项目“%1”的测试未产生任何预期输出.</translation>
+        <translation>项目&quot;%1&quot;的测试未产生任何预期输出.</translation>
     </message>
     <message>
         <source>No tests selected. Canceling test run.</source>
@@ -18770,16 +18770,16 @@ Only desktop kits are supported. Make sure the currently active kit is a desktop
     <message>
         <source>Project is null for &quot;%1&quot;. Removing from test run.
 Check the test environment.</source>
-        <translation>“%1”项目为空.从运行测试中移除.
+        <translation>&quot;%1&quot;项目为空.从运行测试中移除.
 检测测试环境.</translation>
     </message>
     <message>
         <source>Project&apos;s run configuration was deduced for &quot;%1&quot;.
 This might cause trouble during execution.
 (deduced from &quot;%2&quot;)</source>
-        <translation>为“%1”推导出项目的运行配置.
+        <translation>为&quot;%1&quot;推导出项目的运行配置.
 这可能导致执行中的一些问题.
-（从“%2”中推导）</translation>
+（从&quot;%2&quot;中推导）</translation>
     </message>
     <message>
         <source>Startup project has changed. Canceling test run.</source>
@@ -18799,7 +18799,7 @@ This might cause trouble during execution.
     </message>
     <message>
         <source>Could not find command &quot;%1&quot;. (%2)</source>
-        <translation>无法找到命令“%1”.（%2）</translation>
+        <translation>无法找到命令&quot;%1&quot;.（%2）</translation>
     </message>
     <message>
         <source>Unable to display test results when using CDB.</source>
@@ -19001,7 +19001,7 @@ Warning: this is an experimental feature and might lead to failing to execute th
     </message>
     <message>
         <source>Mixing test frameworks and test tools can lead to duplicating run information when using &quot;Run All Tests&quot;, for example.</source>
-        <translation>例如,当使用“运行所有测试”时,混合测试框架和测试工具可能产生重复运行信息.</translation>
+        <translation>例如,当使用&quot;运行所有测试&quot;时,混合测试框架和测试工具可能产生重复运行信息.</translation>
     </message>
     <message>
         <source>%1 (none)</source>
@@ -19441,8 +19441,8 @@ a匹配值包含字母&quot;a&quot;的问题
 &quot;abc&quot;匹配值恰好为&quot;abc&quot;的问题
 !abc匹配值不包含&quot;abc&quot;的问题
 (ab|cd) &amp; !ef将问题与包含&quot;ab&quot;或&quot;cd&quot;但不包含&quot;ef&quot;的值进行匹配
-“”匹配此列中具有空值的问题
-!“”匹配此列中具有任何非空值的问题</translation>
+&quot;&quot;匹配此列中具有空值的问题
+!&quot;&quot;匹配此列中具有任何非空值的问题</translation>
     </message>
     <message>
         <source>Apply</source>
@@ -19732,7 +19732,7 @@ Incremental Build: Set environment variable AXIVION_INCREMENTAL_BUILD=1</source>
     </message>
     <message>
         <source>Cannot debug: Could not find executable for &quot;%1&quot;.</source>
-        <translation>无法调试: 无法找到“%1”的可执行程序.</translation>
+        <translation>无法调试: 无法找到&quot;%1&quot;的可执行程序.</translation>
     </message>
     <message>
         <source>Choose the desired startup mode of the GDB server provider.</source>
@@ -20212,7 +20212,7 @@ Incremental Build: Set environment variable AXIVION_INCREMENTAL_BUILD=1</source>
     </message>
     <message>
         <source>Enter TCP/IP hostname of the debug server, like &quot;localhost&quot; or &quot;192.0.2.1&quot;.</source>
-        <translation>输入调试服务器的 TCP/IP 主机名,例如“localhost”或者“192.0.2.1”.</translation>
+        <translation>输入调试服务器的 TCP/IP 主机名,例如&quot;localhost&quot;或者&quot;192.0.2.1&quot;.</translation>
     </message>
     <message>
         <source>Enter TCP/IP port which will be listened by the debug server.</source>
@@ -20621,7 +20621,7 @@ Local commits are not pushed to the master branch until a normal commit is perfo
         <source>If a revision is specified, uncommits revisions to leave the branch at the specified revision.
 For example, &quot;Revision: 15&quot; will leave the branch at revision 15.</source>
         <translation>如果指定了修订版本,则取消提交修订版以将分支保留在指定的修订版本上.
-例如,“Revision: 15” 会将分支保持在修订记录 15 上.</translation>
+例如,&quot;Revision: 15&quot; 会将分支保持在修订记录 15 上.</translation>
     </message>
     <message>
         <source>Last committed</source>
@@ -20645,7 +20645,7 @@ For example, &quot;Revision: 15&quot; will leave the branch at revision 15.</sou
     </message>
     <message>
         <source>For example: &quot;https://[user[:pass]@]host[:port]/[path]&quot;.</source>
-        <translation>例如:“https://[user[:pass]@]host[:port]/[path]”.</translation>
+        <translation>例如:&quot;https://[user[:pass]@]host[:port]/[path]&quot;.</translation>
     </message>
     <message>
         <source>Ignores differences between branches and overwrites
@@ -20687,11 +20687,11 @@ Local pulls are not applied to the master branch.</source>
     </message>
     <message>
         <source>Cannot open file &quot;%1&quot;: %2.</source>
-        <translation>无法打开“%1”文件:%2.</translation>
+        <translation>无法打开&quot;%1&quot;文件:%2.</translation>
     </message>
     <message>
         <source>Cannot save file &quot;%1&quot;: %2.</source>
-        <translation>无法保存“%1”文件:%2.</translation>
+        <translation>无法保存&quot;%1&quot;文件:%2.</translation>
     </message>
     <message>
         <source>No documentation file specified.</source>
@@ -20699,15 +20699,15 @@ Local pulls are not applied to the master branch.</source>
     </message>
     <message>
         <source>Cannot open documentation file &quot;%1&quot;.</source>
-        <translation>无法打开文档“%1”.</translation>
+        <translation>无法打开文档&quot;%1&quot;.</translation>
     </message>
     <message>
         <source>The file &quot;%1&quot; is not a valid documentation file.</source>
-        <translation>“%1”文件不是有效的文档文件.</translation>
+        <translation>&quot;%1&quot;文件不是有效的文档文件.</translation>
     </message>
     <message>
         <source>Cannot read documentation file &quot;%1&quot;: %2.</source>
-        <translation>无法读取“%1”文档:%2.</translation>
+        <translation>无法读取&quot;%1&quot;文档:%2.</translation>
     </message>
     <message>
         <source>&amp;Artistic Style</source>
@@ -20853,7 +20853,7 @@ Local pulls are not applied to the master branch.</source>
     </message>
     <message>
         <source>Documentation for &quot;%1&quot;</source>
-        <translation>“%1” 的文档</translation>
+        <translation>&quot;%1&quot; 的文档</translation>
     </message>
     <message>
         <source>Edit</source>
@@ -24802,11 +24802,11 @@ Otherwise you need to specify the path to the %2 file from the Copilot neovim pl
     </message>
     <message>
         <source>There is no patch-command configured in the general &quot;Environment&quot; settings.</source>
-        <translation>通用“环境变量”设置中没有配置补丁命令。</translation>
+        <translation>通用&quot;环境变量&quot;设置中没有配置补丁命令。</translation>
     </message>
     <message>
         <source>The patch-command configured in the general &quot;Environment&quot; settings does not exist.</source>
-        <translation>通用“环境”配置中配置的补丁命令不存在。</translation>
+        <translation>通用&quot;环境&quot;配置中配置的补丁命令不存在。</translation>
     </message>
     <message>
         <source>Running in &quot;%1&quot;: %2 %3.</source>
@@ -24818,7 +24818,7 @@ Otherwise you need to specify the path to the %2 file from the Copilot neovim pl
     </message>
     <message>
         <source>A timeout occurred running &quot;%1&quot;.</source>
-        <translation>运行 “%1” 时超时.</translation>
+        <translation>运行 &quot;%1&quot; 时超时.</translation>
     </message>
     <message>
         <source>&quot;%1&quot; crashed.</source>
@@ -24838,7 +24838,7 @@ Otherwise you need to specify the path to the %2 file from the Copilot neovim pl
     </message>
     <message>
         <source>Failed to open an editor for &quot;%1&quot;.</source>
-        <translation>未能打开“%1”的编辑器.</translation>
+        <translation>未能打开&quot;%1&quot;的编辑器.</translation>
     </message>
     <message>
         <source>[read only]</source>
@@ -25065,7 +25065,7 @@ Otherwise you need to specify the path to the %2 file from the Copilot neovim pl
         <source>The text file &quot;%1&quot; has the size %2MB and might take more memory to open and process than available.
 
 Continue?</source>
-        <translation>文本文件“%1”的大小为%2MB,打开和处理可能需要比可用内存更多的内存.
+        <translation>文本文件&quot;%1&quot;的大小为%2MB,打开和处理可能需要比可用内存更多的内存.
 
 继续?</translation>
     </message>
@@ -25199,7 +25199,7 @@ Continue?</source>
     </message>
     <message>
         <source>Tools that will appear directly under the External Tools menu.</source>
-        <translation>工具会直接显示在“外部工具”菜单中.</translation>
+        <translation>工具会直接显示在&quot;外部工具&quot;菜单中.</translation>
     </message>
     <message>
         <source>New Category</source>
@@ -25297,7 +25297,7 @@ Continue?</source>
     </message>
     <message>
         <source>Could not find executable for &quot;%1&quot; (expanded &quot;%2&quot;)</source>
-        <translation>找不到“%1”(扩展“%2”)的可执行文件</translation>
+        <translation>找不到&quot;%1&quot;(扩展&quot;%2&quot;)的可执行文件</translation>
     </message>
     <message>
         <source>Starting external tool &quot;%1&quot;</source>
@@ -25521,7 +25521,7 @@ Continue?</source>
     </message>
     <message>
         <source>File was restored from auto-saved copy. Select Save to confirm or Revert to Saved to discard changes.</source>
-        <translation>文件由自动保存的备份恢复.选择“保存”来确认, 或者“恢复”回滚到已经保存的内容来丢弃修改.</translation>
+        <translation>文件由自动保存的备份恢复.选择&quot;保存&quot;来确认, 或者&quot;恢复&quot;回滚到已经保存的内容来丢弃修改.</translation>
     </message>
     <message>
         <source>Case sensitive</source>
@@ -25640,7 +25640,7 @@ Continue?</source>
     </message>
     <message>
         <source>Factory with id=&quot;%1&quot; already registered. Deleting.</source>
-        <translation>id=“%1”的工厂已注册,删除.</translation>
+        <translation>id=&quot;%1&quot;的工厂已注册,删除.</translation>
     </message>
     <message>
         <source>Reload All Wizards</source>
@@ -25722,7 +25722,7 @@ Continue?</source>
     </message>
     <message>
         <source>Failed to remove file &quot;%1&quot;.</source>
-        <translation>删除文件“%1”失败.</translation>
+        <translation>删除文件&quot;%1&quot;失败.</translation>
     </message>
     <message>
         <source>Global Actions &amp; Actions from the Menu</source>
@@ -25730,7 +25730,7 @@ Continue?</source>
     </message>
     <message>
         <source>Triggers an action. If it is from the menu it matches any part of a menu hierarchy, separated by &quot;&gt;&quot;. For example &quot;sess def&quot; matches &quot;File &gt; Sessions &gt; Default&quot;.</source>
-        <translation>触发一个动作.如果它来自菜单,则匹配菜单层次结构的任何部分,以“&gt;”分隔.例如,“sess def”匹配“文件 &gt; 会话 &gt;默认”.</translation>
+        <translation>触发一个动作.如果它来自菜单,则匹配菜单层次结构的任何部分,以&quot;&gt;&quot;分隔.例如,&quot;sess def&quot;匹配&quot;文件 &gt; 会话 &gt;默认&quot;.</translation>
     </message>
     <message>
         <source>Add the file to version control (%1)</source>
@@ -25892,7 +25892,7 @@ Continue?</source>
     <message>
         <source>The settings file &quot;%1&quot; is not writable.
 You will not be able to store any %2 settings.</source>
-        <translation>设置文件“%1”不可写.
+        <translation>设置文件&quot;%1&quot;不可写.
 您将无法存储任何%2设置.</translation>
     </message>
     <message>
@@ -25906,7 +25906,7 @@ You will not be able to store any %2 settings.</source>
     <message>
         <source>Error reading settings file &quot;%1&quot;: %2
 You will likely experience further problems using this instance of %3.</source>
-        <translation>读取设置文件“%1”:%2时出错
+        <translation>读取设置文件&quot;%1&quot;:%2时出错
 使用此%3实例时,您可能会遇到更多问题.</translation>
     </message>
     <message>
@@ -25941,13 +25941,13 @@ You will likely experience further problems using this instance of %3.</source>
     </message>
     <message>
         <source>Locates files from a custom set of directories. Append &quot;+&lt;number&gt;&quot; or &quot;:&lt;number&gt;&quot; to jump to the given line number. Append another &quot;+&lt;number&gt;&quot; or &quot;:&lt;number&gt;&quot; to jump to the column number as well.</source>
-        <translation>从一组自定义目录定位文件.添加“+&lt;number&gt;”或“:&lt;number&gt;”跳转到给定的行号.添加另一个“+&lt;number&gt;”或“：&lt;number&gt;”来跳转到列号.</translation>
+        <translation>从一组自定义目录定位文件.添加&quot;+&lt;number&gt;&quot;或&quot;:&lt;number&gt;&quot;跳转到给定的行号.添加另一个&quot;+&lt;number&gt;&quot;或&quot;：&lt;number&gt;&quot;来跳转到列号.</translation>
     </message>
     <message>
         <source>Specify a short word/abbreviation that can be used to restrict completions to files from this directory tree.
 To do this, you type this shortcut and a space in the Locator entry field, and then the word to search for.</source>
         <translation>指定用于限定此目录树的文件的关键词或者缩写.
-您可以在“定位器”的输入位置键入这个缩写和一个空格,然后输入搜索的词.</translation>
+您可以在&quot;定位器&quot;的输入位置键入这个缩写和一个空格,然后输入搜索的词.</translation>
     </message>
     <message>
         <source>Directories:</source>
@@ -26127,11 +26127,11 @@ To do this, you type this shortcut and a space in the Locator entry field, and t
     </message>
     <message>
         <source>Could not open &quot;%1&quot;: Cannot open files of type &quot;%2&quot;.</source>
-        <translation>无法打开“%1”:无法打开类型为“%2”的文件.</translation>
+        <translation>无法打开&quot;%1&quot;:无法打开类型为&quot;%2&quot;的文件.</translation>
     </message>
     <message>
         <source>Could not open &quot;%1&quot;: Unknown error.</source>
-        <translation>无法打开“%1”:未知错误.</translation>
+        <translation>无法打开&quot;%1&quot;:未知错误.</translation>
     </message>
     <message>
         <source>&lt;b&gt;Warning:&lt;/b&gt; This file was not opened in %1 yet.</source>
@@ -26204,7 +26204,7 @@ To do this, you type this shortcut and a space in the Locator entry field, and t
     <message>
         <source>Previous command is still running (&quot;%1&quot;).
 Do you want to kill it?</source>
-        <translation>上一个命令仍在运行(“%1”).
+        <translation>上一个命令仍在运行(&quot;%1&quot;).
 你想杀掉它吗?</translation>
     </message>
     <message>
@@ -26213,11 +26213,11 @@ Do you want to kill it?</source>
     </message>
     <message>
         <source>Could not find executable for &quot;%1&quot;.</source>
-        <translation>找不到“%1”的可执行文件.</translation>
+        <translation>找不到&quot;%1&quot;的可执行文件.</translation>
     </message>
     <message>
         <source>Starting command &quot;%1&quot;.</source>
-        <translation>启动命令“%1”.</translation>
+        <translation>启动命令&quot;%1&quot;.</translation>
     </message>
     <message>
         <source>Run External Tool</source>
@@ -26233,7 +26233,7 @@ Do you want to kill it?</source>
     </message>
     <message>
         <source>Opens a file given by a relative path to the current document, or absolute path. &quot;~&quot; refers to your home directory. You have the option to create a file if it does not exist yet.</source>
-        <translation>打开由当前文档的相对路径或绝对路径给出的文件.“~”指的是你的主目录.如果文件还不存在,您可以选择创建它.</translation>
+        <translation>打开由当前文档的相对路径或绝对路径给出的文件.&quot;~&quot;指的是你的主目录.如果文件还不存在,您可以选择创建它.</translation>
     </message>
     <message>
         <source>Create File</source>
@@ -26461,7 +26461,7 @@ If the system cursors for resizing views are not displayed properly, you can use
     </message>
     <message>
         <source>Re-enable warnings that were suppressed by selecting &quot;Do Not Show Again&quot; (for example, missing highlighter).</source>
-        <translation>重新启用通过选择“不要再次显示”的警告(例如,缺少高亮).</translation>
+        <translation>重新启用通过选择&quot;不要再次显示&quot;的警告(例如,缺少高亮).</translation>
     </message>
     <message>
         <source>Theme:</source>
@@ -26916,7 +26916,7 @@ If the system cursors for resizing views are not displayed properly, you can use
     </message>
     <message>
         <source>This will hide the menu bar completely. You can show it again by typing %1.&lt;br&gt;&lt;br&gt;Or, trigger the &quot;%2&quot; action from the &quot;%3&quot; locator filter (%4).</source>
-        <translation>这将完全隐藏菜单栏.您可以通过输入%1再次显示它.&lt;br&gt;&lt;br&gt;或者,从“%3”定位器过滤器(%4)触发“%2”动作.</translation>
+        <translation>这将完全隐藏菜单栏.您可以通过输入%1再次显示它.&lt;br&gt;&lt;br&gt;或者,从&quot;%3&quot;定位器过滤器(%4)触发&quot;%2&quot;动作.</translation>
     </message>
     <message>
         <source>About &amp;%1</source>
@@ -27253,11 +27253,11 @@ If the system cursors for resizing views are not displayed properly, you can use
     </message>
     <message>
         <source>A plugin with ID &quot;%1&quot; is already installed.</source>
-        <translation>已安装ID为“%1”的插件.</translation>
+        <translation>已安装ID为&quot;%1&quot;的插件.</translation>
     </message>
     <message>
         <source>No plugin with ID &quot;%1&quot; is installed.</source>
-        <translation>没有安装ID为“%1”的插件.</translation>
+        <translation>没有安装ID为&quot;%1&quot;的插件.</translation>
     </message>
     <message>
         <source>Plugin failed to resolve dependencies:</source>
@@ -27317,7 +27317,7 @@ If the system cursors for resizing views are not displayed properly, you can use
     </message>
     <message>
         <source>The file &quot;%1&quot; exists. Overwrite?</source>
-        <translation>文件“%1”存在.覆盖?</translation>
+        <translation>文件&quot;%1&quot;存在.覆盖?</translation>
     </message>
     <message>
         <source>Overwrite</source>
@@ -27539,7 +27539,7 @@ If the system cursors for resizing views are not displayed properly, you can use
     </message>
     <message>
         <source>Locator: Error occurred when running &quot;%1&quot;.</source>
-        <translation>定位器:运行“%1”时发生错误.</translation>
+        <translation>定位器:运行&quot;%1&quot;时发生错误.</translation>
     </message>
     <message>
         <source>Locator query string.</source>
@@ -27551,7 +27551,7 @@ If the system cursors for resizing views are not displayed properly, you can use
     </message>
     <message>
         <source>Locator query string with quotes escaped with backslash and spaces replaced with &quot;*&quot; wildcards.</source>
-        <translation>定位查询字符串,引号用反斜杠转义,空格用“*”通配符替换.</translation>
+        <translation>定位查询字符串,引号用反斜杠转义,空格用&quot;*&quot;通配符替换.</translation>
     </message>
     <message>
         <source>Locator query string as regular expression.</source>
@@ -27563,7 +27563,7 @@ If the system cursors for resizing views are not displayed properly, you can use
     </message>
     <message>
         <source>Locates files from a global file system index (Spotlight, Locate, Everything). Append &quot;+&lt;number&gt;&quot; or &quot;:&lt;number&gt;&quot; to jump to the given line number. Append another &quot;+&lt;number&gt;&quot; or &quot;:&lt;number&gt;&quot; to jump to the column number as well.</source>
-        <translation>从全局文件系统索引(Spotlight, Locate, Everything)中定位文件.添加“+&lt;number&gt;”或“:&lt;number&gt;”跳转到给定的行号.添加另一个“+&lt;number&gt;”或“:&lt;number&gt;”来跳转到列号.</translation>
+        <translation>从全局文件系统索引(Spotlight, Locate, Everything)中定位文件.添加&quot;+&lt;number&gt;&quot;或&quot;:&lt;number&gt;&quot;跳转到给定的行号.添加另一个&quot;+&lt;number&gt;&quot;或&quot;:&lt;number&gt;&quot;来跳转到列号.</translation>
     </message>
     <message>
         <source>Sort results</source>
@@ -27623,7 +27623,7 @@ If the system cursors for resizing views are not displayed properly, you can use
     </message>
     <message>
         <source>Command line arguments used for &quot;Run in terminal&quot;.</source>
-        <translation>命令行参数用于“在终端中运行”.</translation>
+        <translation>命令行参数用于&quot;在终端中运行&quot;.</translation>
     </message>
     <message>
         <source>Always Ask</source>
@@ -27639,7 +27639,7 @@ If the system cursors for resizing views are not displayed properly, you can use
     </message>
     <message>
         <source>min</source>
-        <translation>分</translation>
+        <translation>分钟</translation>
     </message>
     <message>
         <source>Bytes</source>
@@ -27663,7 +27663,7 @@ If the system cursors for resizing views are not displayed properly, you can use
     </message>
     <message>
         <source>Crash reports are saved in &quot;%1&quot;.</source>
-        <translation>崩溃报告保存在“%1”中.</translation>
+        <translation>崩溃报告保存在&quot;%1&quot;中.</translation>
     </message>
     <message>
         <source>Manage</source>
@@ -27671,7 +27671,7 @@ If the system cursors for resizing views are not displayed properly, you can use
     </message>
     <message>
         <source>Command line arguments used for &quot;%1&quot;.</source>
-        <translation>用于“%1”的命令行参数.</translation>
+        <translation>用于&quot;%1&quot;的命令行参数.</translation>
     </message>
     <message>
         <source>File system case sensitivity:</source>
@@ -27732,7 +27732,7 @@ If the system cursors for resizing views are not displayed properly, you can use
     </message>
     <message>
         <source>Maximum number of entries in &quot;Recent Files&quot;:</source>
-        <translation>“最近文件”中的最大条目数:</translation>
+        <translation>&quot;最近文件&quot;中的最大条目数:</translation>
     </message>
     <message>
         <source>System</source>
@@ -27795,7 +27795,7 @@ provided they were unmodified before the refactoring.</source>
     <message>
         <source>Add &quot;%1&quot; placeholder for the query string.
 Double-click to edit item.</source>
-        <translation>为查询字符串添加“%1”占位符.
+        <translation>为查询字符串添加&quot;%1&quot;占位符.
 双击可编辑项.</translation>
     </message>
     <message>
@@ -27832,15 +27832,15 @@ Double-click to edit item.</source>
     </message>
     <message>
         <source>Error in &quot;%1&quot;: %2</source>
-        <translation>&quot;%1”错误:%2</translation>
+        <translation>&quot;%1&quot;错误:%2</translation>
     </message>
     <message>
         <source>Cannot convert result of &quot;%1&quot; to string.</source>
-        <translation>无法将结果“%1”转换为字符串.</translation>
+        <translation>无法将结果&quot;%1&quot;转换为字符串.</translation>
     </message>
     <message>
         <source>Evaluate simple JavaScript statements.&lt;br&gt;Literal &apos;}&apos; characters must be escaped as &quot;\}&quot;, &apos;\&apos; characters must be escaped as &quot;\\&quot;, and &quot;%{&quot; must be escaped as &quot;%\{&quot;.</source>
-        <translation>计算简单的JavaScript语句.&lt;br&gt;文字“}”字符必须转义为“\}”,“\”字符必须转义为“\\”,“%{”必须转义为&quot;%\{&quot;.</translation>
+        <translation>计算简单的JavaScript语句.&lt;br&gt;文字&quot;}&quot;字符必须转义为&quot;\}&quot;,&quot;\&quot;字符必须转义为&quot;\\&quot;,&quot;%{&quot;必须转义为&quot;%\{&quot;.</translation>
     </message>
     <message>
         <source>Tags:</source>
@@ -27873,7 +27873,7 @@ Double-click to edit item.</source>
     </message>
     <message>
         <source>Failed to open editor for &quot;%1&quot;.</source>
-        <translation>未能打开“%1”的编辑器.</translation>
+        <translation>未能打开&quot;%1&quot;的编辑器.</translation>
     </message>
     <message numerus="yes">
         <source>Elided %n characters due to Application Output settings</source>
@@ -28042,7 +28042,7 @@ Do you want to check them out now?</source>
     </message>
     <message>
         <source>The directory &quot;%1&quot; seems to be under version control that can be handled by the disabled %2 plugin.</source>
-        <translation>目录“%1”似乎处于版本控制之下,可以由被禁用的%2插件处理.</translation>
+        <translation>目录&quot;%1&quot;似乎处于版本控制之下,可以由被禁用的%2插件处理.</translation>
     </message>
     <message>
         <source>Version Control</source>
@@ -28219,7 +28219,7 @@ to version control (%2)?</source>
     </message>
     <message>
         <source>Failed to open preset file &quot;%1&quot; for reading.</source>
-        <translation>未能打开预设文件“%1”进行读取.</translation>
+        <translation>未能打开预设文件&quot;%1&quot;进行读取.</translation>
     </message>
     <message>
         <source>Uncheck All</source>
@@ -28235,11 +28235,11 @@ to version control (%2)?</source>
     </message>
     <message>
         <source>Failed to open file &quot;%1&quot; for writing logs.</source>
-        <translation>打开文件“%1”写入日志失败.</translation>
+        <translation>打开文件&quot;%1&quot;写入日志失败.</translation>
     </message>
     <message>
         <source>Failed to write preset file &quot;%1&quot;.</source>
-        <translation>写入预设文件“%1”失败.</translation>
+        <translation>写入预设文件&quot;%1&quot;失败.</translation>
     </message>
     <message>
         <source>Load Enabled Categories From</source>
@@ -28247,7 +28247,7 @@ to version control (%2)?</source>
     </message>
     <message>
         <source>Failed to read preset file &quot;%1&quot;: %2</source>
-        <translation>读取预设文件“%1”:%2失败</translation>
+        <translation>读取预设文件&quot;%1&quot;:%2失败</translation>
     </message>
     <message>
         <source>Unexpected preset file format.</source>
@@ -28410,7 +28410,7 @@ to version control (%2)?</source>
     </message>
     <message>
         <source>Only virtual functions can be marked &apos;final&apos;</source>
-        <translation>只有虚函数可以标记为“final”</translation>
+        <translation>只有虚函数可以标记为&quot;final&quot;</translation>
     </message>
     <message>
         <source>Expected a namespace-name</source>
@@ -28514,11 +28514,11 @@ to version control (%2)?</source>
     </message>
     <message>
         <source>Failed to open output file &quot;%1&quot;.</source>
-        <translation>无法打开输出文件“%1”.</translation>
+        <translation>无法打开输出文件&quot;%1&quot;.</translation>
     </message>
     <message>
         <source>Failed to write output file &quot;%1&quot;.</source>
-        <translation>写入输出文件“%1”失败.</translation>
+        <translation>写入输出文件&quot;%1&quot;失败.</translation>
     </message>
     <message>
         <source>Could not determine which compiler to invoke.</source>
@@ -28540,7 +28540,7 @@ to version control (%2)?</source>
     </message>
     <message>
         <source>C++ Indexer: Skipping file &quot;%1&quot; because its path matches the ignore pattern.</source>
-        <translation>C++索引器:跳过文件“%1”.因为其路径与忽略模式匹配.</translation>
+        <translation>C++索引器:跳过文件&quot;%1&quot;.因为其路径与忽略模式匹配.</translation>
     </message>
     <message>
         <source>The project contains C source files, but the currently active kit has no C compiler. The code model will not be fully functional.</source>
@@ -28650,7 +28650,7 @@ This is normally not a good idea, as the file will likely get overwritten during
     </message>
     <message>
         <source>Do you want to edit &quot;%1&quot; instead?</source>
-        <translation>您想改为编辑“%1”吗?</translation>
+        <translation>您想改为编辑&quot;%1&quot;吗?</translation>
     </message>
     <message>
         <source>Renamed Symbol Will Be Overwritten</source>
@@ -28784,7 +28784,7 @@ This is normally not a good idea, as the file will likely get overwritten during
     </message>
     <message>
         <source>&lt;p&gt;If background indexing is enabled, global symbol searches will yield more accurate results, at the cost of additional CPU load when the project is first opened. The indexing result is persisted in the project&apos;s build directory. If you disable background indexing, a faster, but less accurate, built-in indexer is used instead. The thread priority for building the background index can be adjusted since clangd 15.&lt;/p&gt;&lt;p&gt;Background Priority: Minimum priority, runs on idle CPUs. May leave &apos;performance&apos; cores unused.&lt;/p&gt;&lt;p&gt;Normal Priority: Reduced priority compared to interactive work.&lt;/p&gt;&lt;p&gt;Low Priority: Same priority as other clangd work.&lt;/p&gt;</source>
-        <translation>&lt;p&gt;如果启用了后台索引,全局符号搜索将产生更准确的结果,但会在项目首次打开时以额外的CPU负载为代价.索引结果保存在项目的构建目录中.如果禁用后台索引,则使用更快但不太准确的内置索引器.从cland 15开始,可以调整构建后台索引的线程优先级.&lt;/p&gt;&lt;p&gt;后台优先级: 最小优先级,在空闲CPU上运行.可能会使“性能”核心闲置.&lt;/p&gt;&lt;p&gt;正常优先级: 与交互式工作相比,优先级降低.&lt;/p&gt;&lt;p&gt;低优先级:与其他叮当工作具有相同的优先级.&lt;/p&gt;</translation>
+        <translation>&lt;p&gt;如果启用了后台索引,全局符号搜索将产生更准确的结果,但会在项目首次打开时以额外的CPU负载为代价.索引结果保存在项目的构建目录中.如果禁用后台索引,则使用更快但不太准确的内置索引器.从cland 15开始,可以调整构建后台索引的线程优先级.&lt;/p&gt;&lt;p&gt;后台优先级: 最小优先级,在空闲CPU上运行.可能会使&quot;性能&quot;核心闲置.&lt;/p&gt;&lt;p&gt;正常优先级: 与交互式工作相比,优先级降低.&lt;/p&gt;&lt;p&gt;低优先级:与其他叮当工作具有相同的优先级.&lt;/p&gt;</translation>
     </message>
     <message>
         <source>The location of the per-project clangd index.&lt;p&gt;This is also where the compile_commands.json file will go.</source>
@@ -28796,11 +28796,11 @@ This is normally not a good idea, as the file will likely get overwritten during
     </message>
     <message>
         <source>&lt;p&gt;The C/C++ backend to use for switching between header and source files.&lt;/p&gt;&lt;p&gt;While the clangd implementation has more capabilities than the built-in code model, it tends to find false positives.&lt;/p&gt;&lt;p&gt;When &quot;Try Both&quot; is selected, clangd is used only if the built-in variant does not find anything.&lt;/p&gt;</source>
-        <translation>&lt;p&gt;用于在头文件和源文件之间切换的C/C++后端.&lt;/p&gt;&lt;p&gt;虽然cland实现比内置代码模型具有更多的功能，但它往往会发现误报.&lt;/p&gt;&lt;p&gt;当选择“尝试两者”时,只有当内置变量找不到任何东西时,才会使用cland.&lt;/p&gt;</translation>
+        <translation>&lt;p&gt;用于在头文件和源文件之间切换的C/C++后端.&lt;/p&gt;&lt;p&gt;虽然cland实现比内置代码模型具有更多的功能，但它往往会发现误报.&lt;/p&gt;&lt;p&gt;当选择&quot;尝试两者&quot;时,只有当内置变量找不到任何东西时,才会使用cland.&lt;/p&gt;</translation>
     </message>
     <message>
         <source>&lt;p&gt;Which model clangd should use to rank possible completions.&lt;/p&gt;&lt;p&gt;This determines the order of candidates in the combo box when doing code completion.&lt;/p&gt;&lt;p&gt;The &quot;%1&quot; model used by default results from (pre-trained) machine learning and provides superior results on average.&lt;/p&gt;&lt;p&gt;If you feel that its suggestions stray too much from your expectations for your code base, you can try switching to the hand-crafted &quot;%2&quot; model.&lt;/p&gt;</source>
-        <translation>&lt;p&gt;land应该使用哪个模型来对可能的完成进行排名.&lt;/p&gt;&lt;p&gt;这决定了在执行代码补全时组合框中候选者的顺序.&lt;/p&gt;&lt;p&gt;默认情况下使用的“%1”模型来自(预训练的)机器学习,平均提供更好的结果.&lt;/p&gt;&lt;p&gt;如果你觉得它的建议与你对代码库的期望相去甚远,你可以尝试切换到手工制作的“%2”模型.&lt;/p&gt;</translation>
+        <translation>&lt;p&gt;land应该使用哪个模型来对可能的完成进行排名.&lt;/p&gt;&lt;p&gt;这决定了在执行代码补全时组合框中候选者的顺序.&lt;/p&gt;&lt;p&gt;默认情况下使用的&quot;%1&quot;模型来自(预训练的)机器学习,平均提供更好的结果.&lt;/p&gt;&lt;p&gt;如果你觉得它的建议与你对代码库的期望相去甚远,你可以尝试切换到手工制作的&quot;%2&quot;模型.&lt;/p&gt;</translation>
     </message>
     <message>
         <source>Number of worker threads used by clangd. Background indexing also uses this many worker threads.</source>
@@ -29177,7 +29177,7 @@ if they would align to the next line</source>
     </message>
     <message>
         <source>Bind &apos;*&apos; and &apos;&amp;&amp;&apos; in types/declarations to</source>
-        <translation>将类型/声明中的“*”和“&amp;&amp;”绑定到</translation>
+        <translation>将类型/声明中的&quot;*&quot;和&quot;&amp;&amp;&quot;绑定到</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;This does not apply to the star and reference symbol in pointer/reference to functions and arrays, e.g.:
@@ -29411,7 +29411,7 @@ These prefixes are used in addition to current file name on Switch Header/Source
     </message>
     <message>
         <source>Uses &quot;#pragma once&quot; instead of &quot;#ifndef&quot; include guards.</source>
-        <translation>使用“#pragma once”代替“#ifndef”包含保护符.</translation>
+        <translation>使用&quot;#pragma once&quot;代替&quot;#ifndef&quot;包含保护符.</translation>
     </message>
     <message>
         <source>Sources</source>
@@ -29699,7 +29699,7 @@ These prefixes are used in addition to current file name on Switch Header/Source
     </message>
     <message>
         <source>Clear Added &quot;override&quot; Equivalents</source>
-        <translation>明确添加了“override”等效项</translation>
+        <translation>明确添加了&quot;override&quot;等效项</translation>
     </message>
     <message>
         <source>&lt;p&gt;&lt;b&gt;Active Parse Context&lt;/b&gt;:&lt;br/&gt;%1&lt;/p&gt;&lt;p&gt;Multiple parse contexts (set of defines, include paths, and so on) are available for this file.&lt;/p&gt;&lt;p&gt;Choose a parse context to set it as the preferred one. Clear the preference from the context menu.&lt;/p&gt;</source>
@@ -29941,7 +29941,7 @@ Flags: %3</source>
     </message>
     <message>
         <source>Remove All Occurrences of &quot;using namespace %1&quot; in Global Scope and Adjust Type Names Accordingly</source>
-        <translation>删除全局作用域中所有出现的“using namespace %1”,并相应地调整类型名称</translation>
+        <translation>删除全局作用域中所有出现的&quot;using namespace %1&quot;,并相应地调整类型名称</translation>
     </message>
     <message>
         <source>Remove &quot;using namespace %1&quot; and Adjust Type Names Accordingly</source>
@@ -29949,7 +29949,7 @@ Flags: %3</source>
     </message>
     <message>
         <source>Add Class Member &quot;%1&quot;</source>
-        <translation>添加类成员“%1”</translation>
+        <translation>添加类成员&quot;%1&quot;</translation>
     </message>
     <message>
         <source>Provide the type</source>
@@ -29961,11 +29961,11 @@ Flags: %3</source>
     </message>
     <message>
         <source>Add Member Function &quot;%1&quot;</source>
-        <translation>添加成员函数“%1”</translation>
+        <translation>添加成员函数&quot;%1&quot;</translation>
     </message>
     <message>
         <source>C++ Indexer: Skipping file &quot;%1&quot; because it is too big.</source>
-        <translation>C++索引器: 跳过文件“%1”,因为它太大.</translation>
+        <translation>C++索引器: 跳过文件&quot;%1&quot;,因为它太大.</translation>
     </message>
     <message>
         <source>Generated Function Locations</source>
@@ -30021,11 +30021,11 @@ Flags: %3</source>
     </message>
     <message>
         <source>A JavaScript expression acting as the return value of a function with two parameters &lt;b&gt;name&lt;/b&gt; and &lt;b&gt;memberName&lt;/b&gt;, where&lt;ul&gt;&lt;li&gt;&lt;b&gt;name&lt;/b&gt; is the &quot;semantic name&quot; as it would be used for a Qt property&lt;/li&gt;&lt;li&gt;&lt;b&gt;memberName&lt;/b&gt; is the name of the member variable.&lt;/li&gt;&lt;/ul&gt;</source>
-        <translation>一个JavaScript表达式,作为具有两个参数&lt;b&gt;name&lt;/b&gt;和&lt;b&gt;memberName&lt;/b&gt;的函数的返回值,其中&lt;ul&gt;&lt;li&gt;&lt;b&gt;name&lt;/b&gt;是“语义名称”,因为它将用于Qt属性&lt;/li&gt;&lt;li&gt;&lt;b&gt;memName&lt;/b&gt;是成员变量的名称.&lt;/li&gt;&lt;/ul&gt;</translation>
+        <translation>一个JavaScript表达式,作为具有两个参数&lt;b&gt;name&lt;/b&gt;和&lt;b&gt;memberName&lt;/b&gt;的函数的返回值,其中&lt;ul&gt;&lt;li&gt;&lt;b&gt;name&lt;/b&gt;是&quot;语义名称&quot;,因为它将用于Qt属性&lt;/li&gt;&lt;li&gt;&lt;b&gt;memName&lt;/b&gt;是成员变量的名称.&lt;/li&gt;&lt;/ul&gt;</translation>
     </message>
     <message>
         <source>A JavaScript expression acting as the return value of a function with a parameter &lt;b&gt;name&lt;/b&gt;, which is the &quot;semantic name&quot; as it would be used for a Qt property.</source>
-        <translation>一个JavaScript表达式,充当具有参数&lt;b&gt;name&lt;/b&gt;的函数的返回值,该参数是Qt属性的“语义名称”.</translation>
+        <translation>一个JavaScript表达式,充当具有参数&lt;b&gt;name&lt;/b&gt;的函数的返回值,该参数是Qt属性的&quot;语义名称&quot;.</translation>
     </message>
     <message>
         <source>Generate signals with the new value as parameter</source>
@@ -30089,7 +30089,7 @@ Leave empty to apply heuristics.</source>
     </message>
     <message>
         <source>Add &quot;using namespace ...&quot;</source>
-        <translation>添加“using namespace…”</translation>
+        <translation>添加&quot;using namespace…&quot;</translation>
     </message>
     <message>
         <source>Rewrite types to match the existing namespaces</source>
@@ -30271,7 +30271,7 @@ Use drag and drop to change the order of the parameters.</source>
     </message>
     <message>
         <source>Cannot import code style from &quot;%1&quot;.</source>
-        <translation>无法从“%1”导入代码样式.</translation>
+        <translation>无法从&quot;%1&quot;导入代码样式.</translation>
     </message>
     <message>
         <source>Export Code Format</source>
@@ -30922,7 +30922,7 @@ Do you want to display them anyway?</source>
     </message>
     <message>
         <source>Show &quot;std::&quot; Namespace in Types</source>
-        <translation>在类型中显示“std::”命名空间</translation>
+        <translation>在类型中显示&quot;std::&quot;命名空间</translation>
     </message>
     <message>
         <source>Show Qt&apos;s Namespace in Types</source>
@@ -30974,11 +30974,11 @@ Do you want to display them anyway?</source>
     </message>
     <message>
         <source>Use Tooltips in Locals View when Debugging</source>
-        <translation>调试时在“局部变量”视图中使用工具提示</translation>
+        <translation>调试时在&quot;局部变量&quot;视图中使用工具提示</translation>
     </message>
     <message>
         <source>Use Tooltips in Breakpoints View when Debugging</source>
-        <translation>调试时在“断点”视图中使用工具提示</translation>
+        <translation>调试时在&quot;断点&quot;视图中使用工具提示</translation>
     </message>
     <message>
         <source>Skip Known Frames</source>
@@ -31522,7 +31522,7 @@ markers in the source code editor.</source>
     </message>
     <message>
         <source>The DAP process failed to start. Either the invoked program &quot;%1&quot; is missing, or you may have insufficient permissions to invoke the program.</source>
-        <translation>DAP进程启动失败。被调用的程序“%1”缺失，或者您可能没有足够的权限调用该程序。</translation>
+        <translation>DAP进程启动失败。被调用的程序&quot;%1&quot;缺失，或者您可能没有足够的权限调用该程序。</translation>
     </message>
     <message>
         <source>The DAP process crashed some time after starting successfully.</source>
@@ -35551,24 +35551,24 @@ Rebuilding the project might help.</source>
     <message>
         <source>Unknown property for Type &quot;%1.&quot;.</source>
         <extracomment>do not translate &quot;Type&quot;</extracomment>
-        <translation>类型“%1”的未知属性.</translation>
+        <translation>类型&quot;%1&quot;的未知属性.</translation>
     </message>
     <message>
         <source>Unknown property for ItemLibraryEntry &quot;%1.&quot;.</source>
-        <translation>ItemLibraryEntry“%1”的未知属性.</translation>
+        <translation>ItemLibraryEntry&quot;%1&quot;的未知属性.</translation>
     </message>
     <message>
         <source>Unknown property for Property &quot;%1.&quot;.</source>
         <extracomment>do not translate &quot;Property&quot;</extracomment>
-        <translation>属性“%1”的未知属性.</translation>
+        <translation>属性&quot;%1&quot;的未知属性.</translation>
     </message>
     <message>
         <source>Unknown property for QmlSource &quot;%1.&quot;.</source>
-        <translation>QmlSource“%1.”的未知属性.</translation>
+        <translation>QmlSource&quot;%1.&quot;的未知属性.</translation>
     </message>
     <message>
         <source>Unknown property for ExtraFile &quot;%1.&quot;.</source>
-        <translation>附加文件“%1.”的未知属性.</translation>
+        <translation>附加文件&quot;%1.&quot;的未知属性.</translation>
     </message>
     <message>
         <source>Invalid or duplicate library entry &quot;%1.&quot;.</source>
@@ -37462,7 +37462,7 @@ will also disable the following plugins:
     </message>
     <message>
         <source>&quot;%1&quot; %2 %3L, %4C written.</source>
-        <translation>“%1”%2%3L，%4C已写。</translation>
+        <translation>&quot;%1&quot;%2%3L，%4C已写。</translation>
     </message>
     <message>
         <source> [New] </source>
@@ -38684,7 +38684,7 @@ Partial names can be used if they are unambiguous.</source>
     <message>
         <source>Clean Directory of Project &quot;%1&quot;...</source>
         <extracomment>Avoid translating &quot;Clean&quot;</extracomment>
-        <translation>清理项目“%1”的目录...</translation>
+        <translation>清理项目&quot;%1&quot;的目录...</translation>
     </message>
     <message>
         <source>Meta+G,Meta+Shift+D</source>
@@ -42820,27 +42820,27 @@ See the documentation of the specific language server for valid settings.</sourc
     <name>QtC::LanguageServerProtocol</name>
     <message>
         <source>Cannot decode content with &quot;%1&quot;. Falling back to &quot;%2&quot;.</source>
-        <translation>无法解码包含“%1”的内容,回退到“%2”.</translation>
+        <translation>无法解码包含&quot;%1&quot;的内容,回退到&quot;%2&quot;.</translation>
     </message>
     <message>
         <source>Expected an integer in &quot;%1&quot;, but got &quot;%2&quot;.</source>
-        <translation>期望“%1”中的整数,但得到“%2”.</translation>
+        <translation>期望&quot;%1&quot;中的整数,但得到&quot;%2&quot;.</translation>
     </message>
     <message>
         <source>Could not parse JSON message: &quot;%1&quot;.</source>
-        <translation>无法解析JSON消息:“%1 .</translation>
+        <translation>无法解析JSON消息:&quot;%1 .</translation>
     </message>
     <message>
         <source>Expected a JSON object, but got a JSON &quot;%1&quot; value.</source>
-        <translation>期望一个JSON对象,但得到一个JSON“%1”值.</translation>
+        <translation>期望一个JSON对象,但得到一个JSON&quot;%1&quot;值.</translation>
     </message>
     <message>
         <source>No parameters in &quot;%1&quot;.</source>
-        <translation>“%1”中没有参数.</translation>
+        <translation>&quot;%1&quot;中没有参数.</translation>
     </message>
     <message>
         <source>No ID set in &quot;%1&quot;.</source>
-        <translation>没有在“%1”中设置ID.</translation>
+        <translation>没有在&quot;%1&quot;中设置ID.</translation>
     </message>
     <message>
         <source>Create %1</source>
@@ -43969,7 +43969,7 @@ See the documentation of the specific language server for valid settings.</sourc
     </message>
     <message>
         <source>For example: &quot;https://[user[:pass]@]host[:port]/[path]&quot;.</source>
-        <translation>例如:“https://[user[:pass]@]host[:port]/[path]”.</translation>
+        <translation>例如:&quot;https://[user[:pass]@]host[:port]/[path]&quot;.</translation>
     </message>
     <message>
         <source>Prompt for credentials</source>
@@ -45532,7 +45532,7 @@ You might find further explanations in the Application Output view.</source>
     </message>
     <message>
         <source>Could not submit the change, because your workspace was out of date. Created a pending submit instead.</source>
-        <translation>无法提交修改,因为您的工作空间已经过时.创建了一个“未完成的提交”.</translation>
+        <translation>无法提交修改,因为您的工作空间已经过时.创建了一个&quot;未完成的提交&quot;.</translation>
     </message>
     <message>
         <source>Error running &quot;where&quot; on %1: The file is not mapped.</source>
@@ -48664,7 +48664,7 @@ Title of a the cloned RunConfiguration window, text of the window</extracomment>
     </message>
     <message>
         <source>No kits are enabled for this project. Enable kits in the &quot;Projects&quot; mode.</source>
-        <translation>此项目未启用任何构建套件。在“项目”模式下启用构建套件。</translation>
+        <translation>此项目未启用任何构建套件。在&quot;项目&quot;模式下启用构建套件。</translation>
     </message>
     <message>
         <source>Rename More Files?</source>
@@ -49855,7 +49855,7 @@ Enable this if you plan to create 32-bit x86 binaries without using a dedicated 
     </message>
     <message>
         <source>Failed to open an editor for &quot;%1&quot;.</source>
-        <translation>未能打开“%1”的编辑器.</translation>
+        <translation>未能打开&quot;%1&quot;的编辑器.</translation>
     </message>
     <message>
         <source>No file to open found in &quot;%1&quot;.</source>
@@ -49917,7 +49917,7 @@ Enable this if you plan to create 32-bit x86 binaries without using a dedicated 
     <message>
         <source>&quot;VcsConfiguration&quot; page requires a &quot;vcsId&quot; set.</source>
         <extracomment>Do not translate &quot;VcsConfiguration&quot;, because it is the id of a page.</extracomment>
-        <translation>“VcsConfiguration”页面需要设置“vcsId”。</translation>
+        <translation>&quot;VcsConfiguration&quot;页面需要设置&quot;vcsId&quot;。</translation>
     </message>
     <message>
         <source>Generator is not a object.</source>
@@ -50729,7 +50729,7 @@ Do you want to ignore them?</source>
     </message>
     <message>
         <source>Build Project &quot;%1&quot; for All Configurations</source>
-        <translation>为所有配置生成项目“%1”</translation>
+        <translation>为所有配置生成项目&quot;%1&quot;</translation>
     </message>
     <message>
         <source>Build for &amp;Run Configuration</source>
@@ -50777,7 +50777,7 @@ Do you want to ignore them?</source>
     </message>
     <message>
         <source>Close All Projects Except &quot;%1&quot;</source>
-        <translation>关闭除“%1”以外的所有项目</translation>
+        <translation>关闭除&quot;%1&quot;以外的所有项目</translation>
     </message>
     <message>
         <source>Properties...</source>
@@ -50963,12 +50963,12 @@ Do you want to ignore them?</source>
     <message>
         <source>File &quot;%1&quot; was not removed, because the project has changed in the meantime.
 Please try again.</source>
-        <translation>文件“%1”未被删除,因为项目在此期间发生了更改.
+        <translation>文件&quot;%1&quot;未被删除,因为项目在此期间发生了更改.
 请再试一次.</translation>
     </message>
     <message>
         <source>Could not remove file &quot;%1&quot; from project &quot;%2&quot;.</source>
-        <translation>无法从项目“%2”中删除文件“%1”.</translation>
+        <translation>无法从项目&quot;%2&quot;中删除文件&quot;%1&quot;.</translation>
     </message>
     <message>
         <source>_copy</source>
@@ -51967,7 +51967,7 @@ These files are preserved.</source>
     </message>
     <message>
         <source>Could not open &quot;%1&quot; for writing: %2.</source>
-        <translation>无法打开 “%1“ 以写入:%2.</translation>
+        <translation>无法打开 &quot;%1&quot; 以写入: %2.</translation>
     </message>
     <message>
         <source>Windows Configuration</source>
@@ -56389,7 +56389,7 @@ QML编辑器知道可能的URI。</translation>
         <source>Application finished before loading profiled data.
 Please use the stop button instead.</source>
         <translation>应用程序在载入分析数据之前已经结束.
-请使用“停止”按钮.</translation>
+请使用&quot;停止&quot;按钮.</translation>
     </message>
     <message>
         <source>Load QML Trace</source>
@@ -57569,7 +57569,7 @@ Please check the output pane for more information.</source>
     </message>
     <message>
         <source>A timeout occurred running &quot;%1&quot;.</source>
-        <translation>运行 “%1” 时超时.</translation>
+        <translation>运行 &quot;%1&quot; 时超时.</translation>
     </message>
     <message>
         <source>Project File Generated</source>
@@ -61588,7 +61588,7 @@ Failed to open file &quot;%1&quot;.</source>
     </message>
     <message>
         <source>JSON parsing error: &quot;%1&quot;, at offset: %2</source>
-        <translation>JSON解析错误:“%1”,偏移量:%2</translation>
+        <translation>JSON解析错误: &quot;%1&quot;,偏移量: %2</translation>
     </message>
     <message>
         <source>No colors found.</source>
@@ -62589,7 +62589,7 @@ A value less than 100% can result in overlapping and misaligned graphics.</sourc
     </message>
     <message>
         <source>Color Scheme for Theme &quot;%1&quot;</source>
-        <translation>主题“%1”的配色方案</translation>
+        <translation>主题&quot;%1&quot;的配色方案</translation>
     </message>
     <message>
         <source>Copy Color Scheme</source>
@@ -65067,7 +65067,7 @@ Will not be applied to whitespace in comments and strings.</source>
     </message>
     <message>
         <source>Show &quot;%1&quot; entries</source>
-        <translation>显示“%1”条目</translation>
+        <translation>显示&quot;%1&quot;条目</translation>
     </message>
     <message>
         <source>&lt;Enter regular expression to exclude&gt;</source>
@@ -65207,11 +65207,11 @@ The trace data is lost.</source>
     </message>
     <message>
         <source>All packages matching &quot;%1&quot; are already installed.</source>
-        <translation>所有与“%1”匹配的软件包都已安装.</translation>
+        <translation>所有与&quot;%1&quot;匹配的软件包都已安装.</translation>
     </message>
     <message>
         <source>No packages matching &quot;%1&quot; were found.</source>
-        <translation>没有找到匹配“%1”的包.</translation>
+        <translation>没有找到匹配&quot;%1&quot;的包.</translation>
     </message>
     <message>
         <source>The following packages were found:</source>
@@ -65286,7 +65286,7 @@ The trace data is lost.</source>
     </message>
     <message>
         <source>The maintenance tool at &quot;%1&quot; is not an executable. Check your installation.</source>
-        <translation>位于“%1”的维护工具不是可执行文件.检查安装.</translation>
+        <translation>位于&quot;%1&quot;的维护工具不是可执行文件.检查安装.</translation>
     </message>
     <message>
         <source>Check for Updates</source>
@@ -65486,11 +65486,11 @@ The trace data is lost.</source>
     </message>
     <message>
         <source>Settings File for &quot;%1&quot; from a Different Environment?</source>
-        <translation>设置来自不同环境的“%1”的文件?</translation>
+        <translation>设置来自不同环境的&quot;%1&quot;的文件?</translation>
     </message>
     <message>
         <source>&lt;p&gt;No settings file created by this instance of %1 was found.&lt;/p&gt;&lt;p&gt;Did you work with this project on another machine or using a different settings path before?&lt;/p&gt;&lt;p&gt;Do you still want to load the settings file &quot;%2&quot;?&lt;/p&gt;</source>
-        <translation>&lt;p&gt;没有找到由%1实例创建的设置文件.&lt;/p&gt;&lt;p&gt;您以前是否在另一台机器上使用此项目或使用不同的设置路径?&lt;/p&gt;&lt;p&gt;您还想加载设置文件“%2”吗？&lt;/p&gt;</translation>
+        <translation>&lt;p&gt;没有找到由%1实例创建的设置文件.&lt;/p&gt;&lt;p&gt;您以前是否在另一台机器上使用此项目或使用不同的设置路径?&lt;/p&gt;&lt;p&gt;您还想加载设置文件&quot;%2&quot;吗？&lt;/p&gt;</translation>
     </message>
     <message>
         <source>Filter</source>
@@ -65746,7 +65746,7 @@ The trace data is lost.</source>
     </message>
     <message>
         <source>Failed to remove file &quot;%1&quot;.</source>
-        <translation>删除文件“%1”失败.</translation>
+        <translation>删除文件&quot;%1&quot;失败.</translation>
     </message>
     <message>
         <source>%1 on %2</source>
@@ -65776,7 +65776,7 @@ The trace data is lost.</source>
     </message>
     <message>
         <source>No &quot;localSource&quot; device hook set.</source>
-        <translation>没有“localSource”设备hook set.</translation>
+        <translation>没有&quot;localSource&quot;设备hook set.</translation>
     </message>
     <message>
         <source>Cannot write file %1: %2</source>
@@ -65926,7 +65926,7 @@ Lines starting with &quot;##&quot; will be treated as comments.</source>
 要添加到变量前,请使用VARIABLE=+VALUE.
 现有的变量可以通过${OTHER}在VALUE中引用.
 要清除一个变量,把它的名字放在一行中,没有其他内容.
-以“##”开头的行将被视为注释.</translation>
+以&quot;##&quot;开头的行将被视为注释.</translation>
     </message>
     <message>
         <source>&amp;OK</source>
@@ -66517,11 +66517,11 @@ Lines starting with &quot;##&quot; will be treated as comments.</source>
     </message>
     <message>
         <source>&quot;ps&quot; is not an existing executable.</source>
-        <translation>“ps”不是有效的可执行文件.</translation>
+        <translation>&quot;ps&quot;不是有效的可执行文件.</translation>
     </message>
     <message>
         <source>&quot;pidin&quot; is not an existing executable.</source>
-        <translation>“pidin”不是有效的可执行文件.</translation>
+        <translation>&quot;pidin&quot;不是有效的可执行文件.</translation>
     </message>
     <message>
         <source>Failed to run ps: %1</source>
@@ -67913,7 +67913,7 @@ With cache simulation, further event counters are enabled:
     </message>
     <message>
         <source>Cleaning &quot;%1&quot;</source>
-        <translation>正在清理 “%1”</translation>
+        <translation>正在清理 &quot;%1&quot;</translation>
     </message>
     <message>
         <source>User/&amp;alias configuration file:</source>
@@ -67931,7 +67931,7 @@ With cache simulation, further event counters are enabled:
     </message>
     <message>
         <source>A simple file containing lines with field names like &quot;Reviewed-By:&quot; which will be added below the submit editor.</source>
-        <translation>一个包含了如 ”Reviewed-By:&quot; 等字段名的简单文件,其内容会被添加在提交编辑器的下面.</translation>
+        <translation>一个包含了如 &quot;Reviewed-By:&quot; 等字段名的简单文件,其内容会被添加在提交编辑器的下面.</translation>
     </message>
     <message>
         <source>Submit message &amp;check script:</source>
@@ -72305,7 +72305,7 @@ it reaches the start or end.</source>
     </message>
     <message>
         <source>Sets the style of the stroke. Selecting &lt;b&gt;None&lt;/b&gt; would make it without a stroke.</source>
-        <translation>设置笔画的样式。选择“无”将使其没有笔画。</translation>
+        <translation>设置笔画的样式。选择&quot;无&quot;将使其没有笔画。</translation>
     </message>
     <message>
         <source>Join style</source>
@@ -74368,7 +74368,7 @@ Are you sure you want to remove it?</source>
     <name>WidgetPluginManager</name>
     <message>
         <source>File &quot;%1&quot; is not a Qt Quick Designer plugin.</source>
-        <translation>文件“%1”不是Qt Quick Designer插件.</translation>
+        <translation>文件&quot;%1&quot;不是Qt Quick Designer插件.</translation>
     </message>
 </context>
 <context>
@@ -75501,7 +75501,7 @@ Fields: language name, comment prefix, names from LLM (space-separated), file ex
     </message>
     <message>
         <source>Log messages are visible in General Messages pane</source>
-        <translation>日志消息在“概要消息”窗格中可见</translation>
+        <translation>日志消息在&quot;概要消息&quot;窗格中可见</translation>
     </message>
     <message>
         <source>Check for updates when Qt Creator starts</source>
