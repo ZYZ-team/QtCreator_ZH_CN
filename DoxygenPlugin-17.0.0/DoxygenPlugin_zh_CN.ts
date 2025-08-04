@@ -201,7 +201,7 @@
     <message>
         <location filename="../../doxygensettingswidget.ui" line="170"/>
         <source>Headers</source>
-        <translation>Headers</translation>
+        <translation>头文件</translation>
     </message>
     <message>
         <location filename="../../doxygensettingswidget.ui" line="175"/>

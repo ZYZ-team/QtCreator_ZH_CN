@@ -21267,7 +21267,7 @@ Local pulls are not applied to the master branch.</source>
     </message>
     <message>
         <source>Minimum Size Release</source>
-        <translation>最小大小发布</translation>
+        <translation>最小尺寸发布</translation>
     </message>
     <message>
         <source>Release with Debug Information</source>
@@ -22057,7 +22057,7 @@ Local pulls are not applied to the master branch.</source>
     <message>
         <source>CMake project configuration failed. No CMake configuration for build type &quot;%1&quot; found. Check General Messages for more information.</source>
         <extracomment>General Messages refers to the output view</extracomment>
-        <translation>CMake项目配置失败。未找到构建类型&quot;%1&quot;的CMake配置。有关详细信息，请查看常规消息。</translation>
+        <translation>CMake项目配置失败。未找到构建类型&quot;%1&quot;的CMake配置。有关详细信息，请查看概要消息。</translation>
     </message>
     <message>
         <source>No &quot;%1&quot; CMake configuration found. Available configurations: &quot;%2&quot;.
@@ -27157,7 +27157,7 @@ If the system cursors for resizing views are not displayed properly, you can use
     </message>
     <message>
         <source>%1 Templates</source>
-        <translation>%1 模板</translation>
+        <translation>%1模板</translation>
     </message>
     <message>
         <source>Platform independent</source>
@@ -46242,7 +46242,7 @@ You should not mix multiple test frameworks in a project.</source>
     </message>
     <message>
         <source>Qt Widgets Designer Form</source>
-        <translation></translation>
+        <translation>Qt Widgets Designer Form</translation>
     </message>
     <message>
         <source>Creates a markdown file.</source>
@@ -46726,7 +46726,7 @@ To develop a full application, create a Qt Quick Application project instead.</s
 Use this &quot;compat&quot; version if you want to use other build systems than CMake or Qt versions lower than 6.</source>
         <translation>创建一个包含空窗口的Qt Quick应用程序。
 
-如果您想使用CMake或低于6的Qt版本以外的其他构建系统，请使用此&quot;compat&quot;版本。</translation>
+如果您想使用CMake或低于6的Qt版本以外的其他构建系统，请使用此&quot;兼容&quot;版本。</translation>
     </message>
     <message>
         <source>Application (Qt)</source>
@@ -47004,7 +47004,7 @@ Use this &quot;compat&quot; version if you want to use other build systems than 
         <source>Creates a project containing a single main.cpp file with a stub implementation and no graphical UI.
 
 Preselects a desktop Qt for building the application if available.</source>
-        <translation>创建一个包含单个main.cpp文件的项目，该文件具有存根实现，没有图形用户界面。
+        <translation>创建一个包含单个main.cpp文件的项目，该文件具有stub实现，没有图形用户界面。
 
 如果可用，则预选用于构建应用程序的桌面Qt。</translation>
     </message>
@@ -47034,7 +47034,7 @@ Preselects a desktop Qt for building the application if available.</source>
     </message>
     <message>
         <source>Specify basic information about the classes for which you want to generate skeleton source code files.</source>
-        <translation>指定要为其生成骨架源代码文件的类的基本信息。</translation>
+        <translation>生成源代码框架文件类的基本规定信息。</translation>
     </message>
     <message>
         <source>Shared Library</source>
@@ -47122,15 +47122,16 @@ Preselects a desktop Qt for building the application if available.</source>
     </message>
     <message>
         <source>This wizard generates a Qt Widgets Application project. The application derives by default from QApplication and includes an empty widget.</source>
+        <translatorcomment>不生效</translatorcomment>
         <translation>此向导生成Qt Widgets应用程序项目。默认情况下，该应用程序从QApplication派生，并包含一个空widget。</translation>
     </message>
     <message>
         <source>Generate form</source>
-        <translation>生成窗体</translation>
+        <translation>生成界面</translation>
     </message>
     <message>
         <source>Form file:</source>
-        <translation>窗体文件:</translation>
+        <translation>界面文件：</translation>
     </message>
     <message>
         <source>Class Information</source>
@@ -47146,7 +47147,7 @@ Preselects a desktop Qt for building the application if available.</source>
     </message>
     <message>
         <source>Qt Widgets Application</source>
-        <translation></translation>
+        <translation>Qt Widgets应用程序</translation>
     </message>
     <message>
         <source>Start removing auto-detected items associated with this docker image.</source>
@@ -49771,7 +49772,8 @@ Enable this if you plan to create 32-bit x86 binaries without using a dedicated 
     <message>
         <source>untitled</source>
         <extracomment>File path suggestion for a new project. If you choose to translate it, make sure it is a valid path name without blanks and using only ascii chars.</extracomment>
-        <translation>未命名</translation>
+        <translatorcomment>新项目的文件路径建议。如果选择翻译它，请确保它是一个有效的路径名，没有空格，并且只使用ascii字符。</translatorcomment>
+        <translation>untitled</translation>
     </message>
     <message>
         <source>Failed to Commit to Version Control</source>
@@ -75890,7 +75892,7 @@ Please ensure the selected URL is accessible and the service is running.</source
     <message>
         <location filename="../../doxygensettingswidget.ui" line="170"/>
         <source>Headers</source>
-        <translation>Headers</translation>
+        <translation>头文件</translation>
     </message>
     <message>
         <location filename="../../doxygensettingswidget.ui" line="175"/>
