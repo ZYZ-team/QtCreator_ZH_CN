@@ -25260,7 +25260,7 @@ Continue?</source>
     </message>
     <message>
         <source>No changes to apply.</source>
-        <translation>没有改变到应用.</translation>
+        <translation>没有要应用的更改.</translation>
     </message>
     <message>
         <source>Change...</source>
@@ -26533,7 +26533,7 @@ If the system cursors for resizing views are not displayed properly, you can use
     </message>
     <message>
         <source>Evaluate JavaScript</source>
-        <translation>评估JavaScript</translation>
+        <translation>求JavaScript的数值</translation>
     </message>
     <message>
         <source>Evaluates arbitrary JavaScript expressions and copies the result.</source>
@@ -27631,7 +27631,7 @@ If the system cursors for resizing views are not displayed properly, you can use
     </message>
     <message>
         <source>Reload All Unchanged Editors</source>
-        <translation>重新载入所有未变更的编辑器</translation>
+        <translation>重新载入所有未更改的编辑器</translation>
     </message>
     <message>
         <source>Ignore Modifications</source>
