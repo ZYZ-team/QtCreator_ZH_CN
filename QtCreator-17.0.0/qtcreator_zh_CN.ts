@@ -65921,14 +65921,14 @@ To prepend to a variable, use VARIABLE=+VALUE.
 Existing variables can be referenced in a VALUE with ${OTHER}.
 To clear a variable, put its name on a line with nothing else on it.
 Lines starting with &quot;##&quot; will be treated as comments.</source>
-        <translation>每行输入一个环境变量.
-要设置或更改变量,请使用VARIABLE=VALUE.
-要禁用一个变量,请在这行前面加上&quot;#&quot;.
-要附加到变量后,使用VARIABLE+=VALUE.
-要添加到变量前,请使用VARIABLE=+VALUE.
-现有的变量可以通过${OTHER}在VALUE中引用.
-要清除一个变量,把它的名字放在一行中,没有其他内容.
-以&quot;##&quot;开头的行将被视为注释.</translation>
+        <translation>每行输入一个环境变量。
+要设置或更改变量,请使用VARIABLE=VALUE。
+要禁用一个变量,请在这行前面加上&quot;#&quot;。
+要附加到变量后,使用VARIABLE+=VALUE。
+要添加到变量前,请使用VARIABLE=+VALUE。
+现有的变量可以通过${OTHER}在VALUE中引用。
+要清除一个变量,把它的名字放在一行中,没有其他内容。
+以&quot;##&quot;开头的行将被视为注释。</translation>
     </message>
     <message>
         <source>&amp;OK</source>
