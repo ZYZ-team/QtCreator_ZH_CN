@@ -40339,7 +40339,7 @@ instead of its installation directory when run outside git bash.</source>
     </message>
     <message>
         <source>Sign off</source>
-        <translation>签出</translation>
+        <translation>Sign off</translation>
     </message>
     <message>
         <source>Provide a valid email to commit.</source>
@@ -47123,7 +47123,7 @@ Preselects a desktop Qt for building the application if available.</source>
     <message>
         <source>This wizard generates a Qt Widgets Application project. The application derives by default from QApplication and includes an empty widget.</source>
         <translatorcomment>不生效</translatorcomment>
-        <translation>此向导生成Qt Widgets应用程序项目。默认情况下，该应用程序从QApplication派生，并包含一个空widget。</translation>
+        <translation type="unfinished">此向导生成Qt Widgets应用程序项目。默认情况下，该应用程序从QApplication派生，并包含一个空widget。</translation>
     </message>
     <message>
         <source>Generate form</source>
