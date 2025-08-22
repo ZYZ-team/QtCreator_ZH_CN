@@ -31556,7 +31556,7 @@ You can choose another communication channel here, such as a serial line or cust
     </message>
     <message>
         <source>Peripheral Reg&amp;isters</source>
-        <translation>外围寄存器(&amp;i)</translation>
+        <translation>外部寄存器(&amp;i)</translation>
     </message>
     <message>
         <source>&amp;Stack</source>
@@ -32915,7 +32915,7 @@ Stepping into the module or setting breakpoints by file and line is expected to 
     </message>
     <message>
         <source>UVSC: Fetching peripheral register failed.</source>
-        <translation>UVSC: 获取外围寄存器失败。</translation>
+        <translation>UVSC: 获取外部寄存器失败。</translation>
     </message>
     <message>
         <source>UVSC: Locals enumeration failed.</source>

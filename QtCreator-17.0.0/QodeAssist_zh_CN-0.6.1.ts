@@ -4,20 +4,8 @@
 <context>
     <name>BottomBar</name>
     <message>
-        <source>Send</source>
-        <translation>发送</translation>
-    </message>
-    <message>
         <source>Stop</source>
         <translation>停止</translation>
-    </message>
-    <message>
-        <source>Attach files</source>
-        <translation>附件</translation>
-    </message>
-    <message>
-        <source>Link files</source>
-        <translation>链接文件</translation>
     </message>
     <message>
         <source>Sync open files</source>
@@ -26,6 +14,18 @@
     <message>
         <source>Automatically synchronize currently opened files with the model context</source>
         <translation>自动将当前打开的文件与模型上下文同步</translation>
+    </message>
+    <message>
+        <source>Send message to LLM</source>
+        <translation>发送信息到LLM</translation>
+    </message>
+    <message>
+        <source>Attach file to message</source>
+        <translation>附加文件到信息</translation>
+    </message>
+    <message>
+        <source>Link file to context</source>
+        <translation>将文件链接到上下文</translation>
     </message>
 </context>
 <context>
@@ -44,6 +44,17 @@
     <message>
         <source>Copied</source>
         <translation>已复制</translation>
+    </message>
+</context>
+<context>
+    <name>QObject</name>
+    <message>
+        <source>Template Not Found</source>
+        <translation>找不到模板</translation>
+    </message>
+    <message>
+        <source>Template &apos;%1&apos; was not found or has been updated. Please re-set new one.</source>
+        <translation>未找到模板&apos;%1&apos;或已更新。请重新设置。</translation>
     </message>
 </context>
 <context>
@@ -321,10 +332,6 @@ developers write better code. If you find it useful, please</source>
     <message>
         <source>Enable Multiline Completion</source>
         <translation>启用多行补全</translation>
-    </message>
-    <message>
-        <source>Enable smart process text from instruct model</source>
-        <translation>启用指令模型中的智能程序文本</translation>
     </message>
     <message>
         <source>with delay(ms)</source>
@@ -768,39 +775,79 @@ Please ensure the selected URL is accessible and the service is running.</source
         <source>Suggest an alternative implementation approach for the selected code. Provide a different solution that might be cleaner, more efficient, or uses different Qt/C++ patterns or idioms.</source>
         <translation></translation>
     </message>
+    <message>
+        <source>Text output proccessing mode:</source>
+        <translation>文本输出处理方式:</translation>
+    </message>
+    <message>
+        <source>Auto: Automatically detects codeblock and applies processing when found, other text as comments
+Force Processing: Always processes text with codeblock formatting and other text as comments
+Raw Text: Shows unprocessed text without any formatting</source>
+        <translation>自动: 自动检测代码块并在找到时应用处理，其他文本作为注释
+强制处理: 始终处理具有代码块格式的文本和其他文本作为注释
+原始文本: 显示未格式化处理的文本</translation>
+    </message>
+    <message>
+        <source>Enable chat in bottom toolbar</source>
+        <translation>在底部工具栏中启用聊天</translation>
+    </message>
+    <message>
+        <source>Enable chat in navigation panel</source>
+        <translation>在导航面板中启用聊天</translation>
+    </message>
+    <message>
+        <source>Show QodeAssist Chat</source>
+        <translation>显示QodeAssist聊天</translation>
+    </message>
+    <message>
+        <source>Close QodeAssist Chat</source>
+        <translation>关闭QodeAssist聊天</translation>
+    </message>
 </context>
 <context>
     <name>RootItem</name>
     <message>
-        <source>tokens:%1/%2</source>
-        <translation>tokens:%1/%2</translation>
-    </message>
-    <message>
         <source>Latest chat file name: %1</source>
-        <translation>最近的聊天文件名:%1</translation>
+        <translation>最近的聊天文件名: %1</translation>
     </message>
     <message>
         <source>Type your message here...</source>
         <translation>在这里输入你的信息...</translation>
     </message>
+    <message>
+        <source>%1/%2</source>
+        <translation>%1/%2</translation>
+    </message>
 </context>
 <context>
     <name>TopBar</name>
     <message>
-        <source>Save</source>
-        <translation>保存</translation>
-    </message>
-    <message>
-        <source>Load</source>
-        <translation>加载</translation>
-    </message>
-    <message>
-        <source>Clear</source>
-        <translation>清理</translation>
-    </message>
-    <message>
         <source>Show in system</source>
         <translation>在文件管理器中显示</translation>
+    </message>
+    <message>
+        <source>Unpin chat window</source>
+        <translation>取消固定聊天窗口</translation>
+    </message>
+    <message>
+        <source>Pin chat window to the top</source>
+        <translation>将聊天窗口固定到顶部</translation>
+    </message>
+    <message>
+        <source>Save chat to *.json file</source>
+        <translation>将聊天记录保存到*.json文件</translation>
+    </message>
+    <message>
+        <source>Load chat from *.json file</source>
+        <translation>从*.json文件加载聊天记录</translation>
+    </message>
+    <message>
+        <source>Clean chat</source>
+        <translation>清理聊天记录</translation>
+    </message>
+    <message>
+        <source>Current amount tokens in chat and LLM limit threshold</source>
+        <translation>聊天中的当前tokens数量和LLM限制阈值</translation>
     </message>
 </context>
 </TS>
